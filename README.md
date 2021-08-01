@@ -11,3 +11,5 @@ After running the exe file, walk up to a location that is suitable for fishing a
 The automated bot will correct itself if it makes any mistakes, so try not to interupt it. You can hit ESC at any time to reset the bot. This will make the bot stop activity until you hit F again at which point it will begin running once more.
 
 Sometimes if you catch a green or blue item, the camera will shift, which will aim the fishing pole in the wrong direction and stop the fishing. You can prevent this from being a problem by standing in the middle of water so that no matter which direction you cast, it lands in water. Otherwise you have to babyset it.
+
+For simplicity, you can download the exe directly at this link: https://github.com/lunaprey/newworldfishbot/raw/main/Fishbot%20Trial.exe
