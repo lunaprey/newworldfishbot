@@ -15,3 +15,5 @@ The automated bot will correct itself if it makes any mistakes, so try not to in
 Sometimes if you catch a green or blue item, the camera will shift, which will aim the fishing pole in the wrong direction and stop the fishing. You can prevent this from being a problem by standing in the middle of water so that no matter which direction you cast, it lands in water. Otherwise you have to babyset it.
 
 For simplicity, you can download the exe directly at this link: https://github.com/lunaprey/newworldfishbot/raw/main/Fishbot%20Trial.exe
+
+A discussion Forum related to this bot can be found at http://newworld.boards.zone/
